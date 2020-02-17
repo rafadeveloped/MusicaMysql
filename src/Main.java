@@ -5,6 +5,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("P7-Github, estoy modificando");
+		System.out.println("P8-Github, pull request");
 		int opc = 0;
 		String opc1 = "";
 		Scanner sc = new Scanner(System.in);
